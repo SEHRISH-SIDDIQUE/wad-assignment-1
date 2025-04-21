@@ -402,6 +402,7 @@ strong{
   
   .h1 > div:nth-child(3) {
     grid-column: span 2;
+    font-size: 1.2rem;
   }
 
   .b1 h1 {
@@ -420,6 +421,10 @@ strong{
   
   .h1 {
     grid-template-columns: 1fr;
+    margin: 0px;
+  }
+  .h{
+    padding: 0px;
   }
   
   .h1 > div:nth-child(3) {

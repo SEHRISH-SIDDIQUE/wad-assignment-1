@@ -299,19 +299,21 @@ body {
       font-size: 1.3rem;
     }
   
-    
+    .c2{
+      padding: 0px;
+      
+    }
     .c21 {
         grid-template-columns: 1fr; 
-        text-align: center;
+        text-align: start;
+        margin: 0px;
+        margin-bottom: 1rem;
+        font-size: .5 rem;
       }
     
-      #img1 {
-        height: 180px;
-        background-size: cover; 
-      }
     
       .c212 {
-        padding: 0 1rem;
+        padding: 0px;
       }
   }
   
